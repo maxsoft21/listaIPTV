@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.linkpicture.com/q/Polish_20200907_220945538_1.jpg" tvg-country="MX" tvg-url="" group-title="Tv Cable",Distrito Comedia
 https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=8dQ0rCVgmKCmy_rbrXK1Tg&e=1612386941
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Distrito Comedia HD" tvg-logo="http://topmv.myq-see.com/cover/distrito-comedy.jpg" tvg-country="MX" group-title="Tv Cable",Distrito Comedia HD
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Distrito Comedia HD" tvg-language="Spanish" tvg-logo="http://topmv.myq-see.com/cover/distrito-comedy.jpg" tvg-country="MX" group-title="Tv Cable",Distrito Comedia HD
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/2352
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://adictosalatele.com/logos/fox.png" tvg-country="MX" tvg-url="" group-title="Tv Cable",Fox Channel
 https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/0e733j.m3u8?s=gtkMZA2JZQBgTYZ25WWP4Q&e=1612389661
@@ -16,6 +16,8 @@ https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/ymv0a1aobkxuf.m3u8?s=XlvXwdLfyJOc
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-oyOA5PTLVvE/YBNGoQ7ZGUI/AAAAAAAAAS0/62418MzekMIKbA2V8a55Dic0TuzEz3YCQCNcBGAsYHQ/w680/Cinemax%2Ben%2Bvivo.png" tvg-country="MX" tvg-url="" group-title="Tv Cable",Cinemax
 https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/ztv7sh.m3u8?s=_lFbytCBxi56-rIjEytWBQ&e=1612386332
+#EXTINF:-1 tvg-id="10365" tvg-name="Willax HD (PE) (N)" tvg-language="Spanish" tvg-logo="http://xtremesportsplus.myq-see.com:8080/images/49a7498aecd58c7d7b6d004ffa347430.png" tvg-country="PE" group-title="TV PERU",Willax HD (PE) (N)
+http://xtremesportsplus.myq-see.com:8080/peppe/peppe/17023
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" tvg-country="PE" tvg-url="" group-title="",BHtv (720p)
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
