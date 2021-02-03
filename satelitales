@@ -1,4 +1,7 @@
-#EXTM3U 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" tvg-country="MX" tvg-url="" group-title="Tv Mexico",Distrito Comedia
+https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=POeu22lt-RkqppV6N3BJvA&e=1612351992
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" tvg-country="PE" tvg-url="" group-title="",BHtv (720p)
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="PE" tvg-url="" group-title="",Cultura 24 TV (360p)
