@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" tvg-country="MX" tvg-url="" group-title="Tv Cable",Distrito Comedia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="MX" tvg-url="" group-title="Tv Cable",Distrito Comedia
 https://live.televisiongratishd.com/tvplus2022/47_.m3u8?token=F1tT6SV9r5Rg1Lztmjv6gA&expires=1612364068&ip=181.67.184.49
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" tvg-country="MX" tvg-url="" group-title="Tv Cable",Distrito Comedia2
-https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=POeu22lt-RkqppV6N3BJvA&e=1612351992
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" tvg-country="MX" tvg-url="" group-title="Tv Cable",Fox Chanel
 https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/0e733j.m3u8?s=FMu197YfGV2_NkIe6wcvtQ&e=1612353203
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" tvg-country="MX" tvg-url="" group-title="Tv Cable",HBO
