@@ -1,10 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://www.linkpicture.com/q/Polish_20200907_220945538_1.jpg" tvg-country="MX" tvg-url="" group-title="Tv Cable",Distrito Comedia
 https://live.televisiongratishd.com/tvplus2022/47_.m3u8?token=F1tT6SV9r5Rg1Lztmjv6gA&expires=1612364068&ip=181.67.184.49
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="MX" tvg-url="" group-title="Tv Cable",Fox Chanel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://adictosalatele.com/logos/fox.png" tvg-country="MX" tvg-url="" group-title="Tv Cable",Fox Channel
 https://live.televisiongratishd.com/tvplus2022/42_.m3u8?token=nuF4BN8XqouPKOaHZK8MvQ&expires=1612364998&ip=181.67.184.49
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.ibb.co/1nD5KSH/Polish-20201024-145956584-min.jpg" tvg-country="MX" tvg-url="" group-title="Tv Cable",HBO
-https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/lbqtn3.m3u8?s=O4Ab9c6rcbHE1ug8MbUAcQ&e=1612384939
+https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/lbqtn3.m3u8?s=3Sv7BCJGS3fYspqt1cV1vQ&e=1612385746
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="MX" tvg-url="" group-title="Tv Cable",Warner
+https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/j5uwhfb7w5c.m3u8?s=f3_CcecTMzcSH6cZgtO_bw&e=1612385280
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-BSRQKX3aLwQ/YBNIdtk8dHI/AAAAAAAAATA/bhK7He9NsN08rDOcMbdlZoR5rKGWZXLewCNcBGAsYHQ/w680/Discovery%2BChannel%2Ben%2Bvivo.png" tvg-country="MX" tvg-url="" group-title="Tv Cable",Discovery Channel
+https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/8ha8ro.m3u8?s=JpNFIwb-1m3U6zg6TTNf9A&e=1612385975
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" tvg-country="PE" tvg-url="" group-title="",BHtv (720p)
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
