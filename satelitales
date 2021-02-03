@@ -19,19 +19,19 @@ https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/ztv7sh.m3u8?s=_lFbytCBxi56-rIjEyt
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="PE" tvg-url="" group-title="",Cultura 24 TV (360p)
 https://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2mSwwpH.png" tvg-country="PE" tvg-url="" group-title="",Cultura 24 TV (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2mSwwpH.png" tvg-country="PE" tvg-url="" group-title="TV PERU",Cultura 24 TV (720p)
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FI1Hd4E.png" tvg-country="PE" tvg-url="" group-title="",IPE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FI1Hd4E.png" tvg-country="PE" tvg-url="" group-title="TV PERU",IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" tvg-country="PE" tvg-url="" group-title="",Panamericana TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" tvg-country="PE" tvg-url="" group-title="TV PERU",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/B89KuHO.png" tvg-country="PE" tvg-url="" group-title="",Pax TV (480p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/B89KuHO.png" tvg-country="PE" tvg-url="" group-title="TV PERU",Pax TV (480p)
 https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" tvg-country="PE" tvg-url="" group-title="",TVPeru
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" tvg-country="PE" tvg-url="" group-title="TV PERU",TVPeru
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0THQOZn.png" tvg-country="PE" tvg-url="" group-title="",TVPeru Noticias
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0THQOZn.png" tvg-country="PE" tvg-url="" group-title="TV PERU",TVPeru Noticias
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png" tvg-country="PE" tvg-url="" group-title="",TVPeru Noticias
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png" tvg-country="PE" tvg-url="" group-title="TV PERU",TVPeru Noticias
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="atvsur.pe" tvg-name="PE*| ATV HD (P)" tvg-logo="https://www.linkpicture.com/q/Polish_20200901_222506201.jpg" group-title="TV PERU",PE*| ATV HD (P)
 https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEyNDA3MjY5LCJzZXNzaW9uIjoiMTgxLjY3LjE4NC40OSIsIndoaXRlbGlzdCI6WyIxODEuNjcuMTg0LjQ5Il19LCJzaWduYXR1cmUiOiJmNjkzMzAxN2JhODgwMzYyM2RiM2FjNDFjMGI1NzA3NmI2NmY1N2UzIn0=
