@@ -3,6 +3,8 @@
 https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/3cmcveklru0.m3u8?s=8dQ0rCVgmKCmy_rbrXK1Tg&e=1612386941
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Distrito Comedia HD" tvg-language="Spanish" tvg-logo="http://topmv.myq-see.com/cover/distrito-comedy.jpg" tvg-country="MX" group-title="Tv Cable",Distrito Comedia HD
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/2352
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia.png" group-title="SERIES Y ENTRETENIMIENTO",Distrito Comedia
+http://uruguayiptv.com:25461/Richard2018/Richard2018/532
 #EXTINF:-1 tvg-id="10365" tvg-name="Willax HD (PE) (N)" tvg-language="Spanish" tvg-logo="http://xtremesportsplus.myq-see.com:8080/images/49a7498aecd58c7d7b6d004ffa347430.png" tvg-country="PE" group-title="TV PERU",Willax HD (PE) (N)
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/17023
 
